@@ -1,5 +1,5 @@
 const computer = {
-  brand: "apple",
+===>key brand:  "apple",===>value
   name: "computer",
   prize: 200000,
 };
